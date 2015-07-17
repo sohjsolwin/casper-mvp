@@ -1,3 +1,4 @@
+/// <reference path="../../../typings/jasmine/jasmine.d.ts"/>
 (function() {
   'use strict';
 
